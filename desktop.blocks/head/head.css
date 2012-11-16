@@ -1,3 +1,4 @@
-.head
+.head.b-layout-table > tbody > .b-layout-table__row > .b-layout-table__cell
 {
+    padding: 1em 2em;
 }
